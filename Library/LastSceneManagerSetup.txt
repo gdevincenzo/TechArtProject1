@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/campfire.unity
+- path: Assets/Gabriela_BaseScene.unity
   isLoaded: 1
   isActive: 1
