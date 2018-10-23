@@ -2,7 +2,7 @@
 Campfire Scene for CSE 490 J
 
 To access the project, clone from github and open in Unity.
-When editing, **create a new scene under your name**. For organization, keep meshes and materials in their 
+When editing, **use prefabs**. For organization, keep meshes and materials in their 
 appropriate asset folders, and group similar objects under appropriately named empty 3D objects that act as folders.
 
 How to watch my fly-through cinematic:
