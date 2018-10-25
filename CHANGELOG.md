@@ -1,3 +1,11 @@
+
+[D1025]Fix lightmap and shadow issue.
+[D1025]Add 3 PostFx with cinimachine, support the tone transition from night to day.(Neutral)
+[D1025]Add Day time change animation with rotating sky, campfire change.
+[D1025]Add Reflection Probe
+[D1025]Change color space
+
+
 commit c2d48f7b0695c4f18f6b26c9b2664f4fba3be57a
 Author: Gabriela De Vincenzo <gde.vincenzo17@gmail.com>
 Commit: Gabriela De Vincenzo <gde.vincenzo17@gmail.com>
