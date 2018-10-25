@@ -3623,7 +3623,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4148667084849654, guid: f70909dc39c56d54b841c8b9918ff2eb, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.7065391
+      value: 0.6882603
       objectReference: {fileID: 0}
     - target: {fileID: 4148667084849654, guid: f70909dc39c56d54b841c8b9918ff2eb, type: 2}
       propertyPath: m_RootOrder
@@ -4427,7 +4427,7 @@ ReflectionProbe:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 805887844}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
   m_Type: 0
   m_Mode: 1
@@ -10017,7 +10017,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1807561800
 Transform:
   m_ObjectHideFlags: 0
